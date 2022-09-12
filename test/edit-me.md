@@ -17,10 +17,11 @@ A robot must protect its own existence as long as such protection does not confl
 ___
 
 👉 What is the Fourth Law of Robotics? (Feel free to make up something silly.) Write it on the next line.
-
+Always charge your battery before leavning the house.
 
 👉 Create a heading that says "Fourth Law of Robotics."
-
+ 
+# H1   Fourth Law of Robotics
 
 👉 Paste your entry below and bold the first and last words of your entry.
 
