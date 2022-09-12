@@ -24,14 +24,20 @@ Always charge your battery before leavning the house.
 # H1   Fourth Law of Robotics
 
 👉 Paste your entry below and bold the first and last words of your entry.
-
+	
+ **Something** something something **Something**
 
 👉 Paste your entry below and italicize the second word of your entry.
 
+*Something* something something *Something*
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
 
+![robot](https://user-images.githubusercontent.com/111807159/189771765-a558a4f7-6b05-42d5-86a7-fa75b2b5e8c4.jpg)
+
 
 👉 When you've completed all these steps, enter DONE into the bigger text box and commit your changes below.
-
+ 
+ DONE
+ 
 👉 Stick your Post-It note onto your computer so I know you're finished.
