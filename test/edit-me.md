@@ -37,7 +37,7 @@ Always charge your battery before leavning the house.
 
 
 👉 When you've completed all these steps, enter DONE into the bigger text box and commit your changes below.
- 
+  
  DONE
  
 👉 Stick your Post-It note onto your computer so I know you're finished.
